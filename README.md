@@ -1,2 +1,2 @@
 # React-applications
-React application - Split the Bill a Tricount clone 
+Various Applications and Dashboards
